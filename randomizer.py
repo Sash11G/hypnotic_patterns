@@ -1,5 +1,5 @@
 from random import choice
-from zebu_dict import zebu
+from patterns import zebu
 
 
 def handle_response(message) -> str:
